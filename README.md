@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjoy-ui&label=Profile%20views&color=0e75b6&style=flat" alt="sanjoy-ui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjoy-ui" alt="sanjoy-ui" /></a> </p>
+<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjoy-ui" alt="sanjoy-ui" /></a> </p> --->
 
 - 🌱 I’m currently learning **Backend Development**
 
