@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **developers to work and gain experience in Development**
 
-- PortFolio [coming soon ....](coming soon ....)
+- PortFolio [coming soon ....]
 
 - 📫 How to reach me **sanjoydeb404@gmail.com**
 
