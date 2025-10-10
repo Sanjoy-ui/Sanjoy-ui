@@ -1,6 +1,6 @@
 <!--- - 👋 Hi, I’m @Sanjoy-ui
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Node.js AND Tailwind css
+- 🌱 I’m currently learning Node.js AND Tailwind css , css
 - 💞️ I’m looking to collaborate with developers to work and solve problems 
 - 📫 How to reach me Contact No : <i>6909518832</i> <br> - gmail: sanjoydeb404@gmail.com<br>
 -🧑‍💻 Skills : HTML , CSS , JAVASCRIPT , NODE JS
