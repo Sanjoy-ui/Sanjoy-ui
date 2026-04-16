@@ -9,26 +9,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Your GitHub username
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs_dir: ./output
           
-      - name: push svg to output branch
-        uses: actions/upload-artifact@v2
+      - name: Push changes
+        uses: actions/upload-artifact@v4
         with:
-          name: github-contribution-grid-snake.svg
-          path: dist/github-contribution-grid-snake.svg
+          name: snake-animation
+          path: output/
           
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
-          git add output/github-contribution-grid-snake.svg
+          git add output/ || true
           git commit -m "Generate snake animation" || echo "No changes to commit"
-          git push
+          git push || echo "Nothing to push"
