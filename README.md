@@ -1,22 +1,218 @@
-<!--- - 👋 Hi, I’m @Sanjoy-ui
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Node.js AND Tailwind css , css
-- 💞️ I’m looking to collaborate with developers to work and solve problems 
-- 📫 How to reach me Contact No : <i>6909518832</i> <br> - gmail: sanjoydeb404@gmail.com<br>
--🧑‍💻 Skills : HTML , CSS , JAVASCRIPT , NODE JS
---->
-<h1 align="center">Hi 👋, I'm Sanjoy Deb</h1>
-<h3 align="center">A passionate Full Stack (MERN) developer from India</h3>
+<div align="center">
 
-- 👯 I’m looking to collaborate with **developers to work and gain experience in Development**
+# 👋 Hey, I'm **Sanjoy Deb**
 
-- PortFolio [https://www.sanjoydeb.tech/]
+### ✨ MERN Full Stack Developer | Competitive Coder | Tech Enthusiast
 
-- 📫 How to reach me **sanjoydeb404@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Specialist;DevOps+Enthusiast;Always+Learning+%26+Growing" alt="Typing Animation" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## <img src="https://media.giphy.com/media/WcskZF16YoJzAgSv27/giphy.gif" width="35"> About Me
+
+I'm a passionate **full-stack developer** from Agartala, Tripura, specializing in **MERN stack** (MongoDB, Express.js, React, Node.js). With hands-on experience in building responsive, scalable web applications and foundational knowledge of **DevOps practices**, I thrive in collaborative environments and love solving complex problems through clean, efficient code.
+
+Currently pursuing **B.Tech in Computer Science** at The ICFAI University, Tripura while competing in **IndiaSkills NorthEast 2024-2025** as a Full Stack Developer.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoythegeek)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjoy-ui)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjoydeb404@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://sanjoydeb.tech)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916909518832)
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+ <div align="center">
+
+### 💻 Frontend Mastery
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+
+### ⚙️ Backend Power
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Express](https://skillicons.dev/icons?i=express&theme=dark)
+
+### 🗄️ Database & ORM
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
+![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)
+
+### 🚀 DevOps & Cloud
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
+
+### 📚 Languages
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
+![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+
+</div>
+
+
+
+
+---
+
+## 📈 GitHub Analytics & Metrics
+
+<div align="center">
+
+### 🔥 Contribution Streak & Achievements
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sanjoy-ui&theme=dracula&hide_border=false&border_radius=5)
+<!--
+![GitHub Trophies](https://github-profile-trophy.vercel.app?username=Sanjoy-ui&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false) -->
+
+</div>
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+![Sanjoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjoy-ui&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjoy-ui&layout=compact&theme=dracula&hide_border=false)
+
+</div>
+
+### 🎨 Contribution Graph
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjoyui/sanjoyui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjoyui/sanjoyui/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/sanjoyui/sanjoyui/output/pacman-contribution-graph.svg">
+</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/Sanjoy-ui/Sanjoy-ui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/Sanjoy-ui/Sanjoy-ui/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" 
+       src="https://raw.githubusercontent.com/Sanjoy-ui/Sanjoy-ui/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏫 | Details |
+|---|---------|
+| **Institution** | The ICFAI University, Tripura |
+| **Program** | Bachelor of Technology in Computer Science & Engineering |
+| **Duration** | 2024 – Present (2nd Year) |
+| **Focus** | Full-Stack Development, System Architecture, DevOps |
+
+</div>
+
+---
+
+## 🌟 Core Competencies
+
+<details open>
+<summary><b>💡 Click to expand my expertise</b></summary>
+
+| Category | Expertise |
+|----------|-----------|
+| **Full-Stack Development** | MERN Stack, REST Architecture, Next.js |
+| **Frontend Engineering** | React Hooks, State Management, Responsive Design, Tailwind CSS |
+| **Backend Services** | Node.js, Express, Database Design, Authentication & Authorization, API Security |
+| **Database Design** | MongoDB, PostgreSQL, MySQL, Redis |
+| **DevOps & Infrastructure** | Docker, Kubernetes, Git Workflows, AWS Services |
+| **Problem Solving** | Performance Optimization, Debugging , DSA with java  |
+| **Soft Skills** | Team Collaboration, Mentoring, Technical Communication |
+
+</details>
+
+---
+
+## 🚀 Boom
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycXhkeW5wZWVrY2VxZHQzcmFvcDk0bjQ1OTFsZDVqcTcxajVycDZicyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200w.gif" width="250" />
+
+<!-- <div align="left">
+
+- 🔧 **Building**: HirePrep AI with advanced AI integration
+- 📚 **Learning**: GraphQL best practices and advanced React patterns  
+- 🐳 **Exploring**: Kubernetes & container orchestration strategies
+- 🧪 **Contributing**: Open-source projects and communities
+- 🏗️ **Studying**: System design and scalable architecture patterns
+- 💡 **Innovating**: Building solutions for real-world problems
+
+</div> -->
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoythegeek)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjoy-ui)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjoydeb404@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://sanjoydeb.tech)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916909518832)
+
+</div>
+
+---
+
+## 💭 My Philosophy
+
+> **"Code is poetry written for machines, but read by humans. I craft solutions that are not just functional, but elegant, maintainable, and impactful."**
+
+---
+
+## ⚡ Quick Stats
+
+<div align="center">
+
+- 💻 **1+ Year** of hands-on development experience
+- 🏆 **IndiaSkills NorthEast** 2024-2025 Participant
+- 📱 **2+** Complete Full-Stack Projects
+- 🌍 **Proficient** in MERN Stack & DevOps
+- 🎯 **Focused** on clean code & scalability
+- 🚀 **Passionate** about continuous learning
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌈 *Let's build something amazing together!*
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrng815abb/giphy.gif" width="25">
+
+
+
+⭐ **If you find my work interesting, feel free to star my repositories!** ⭐
+
+<!-- <img src="https://raw.githubusercontent.com/sanjoyui/sanjoyui/output/github-contribution-grid-snake.svg" alt="snake animation" /> -->
+<img src="https://raw.githubusercontent.com/Sanjoy-ui/Sanjoy-ui/output/pacman-contribution-graph.svg" />
+
+</div>
